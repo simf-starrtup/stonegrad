@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: rcorp
- * Date: 12.07.2018
- * Time: 14:05
- */
+<?php get_header(); ?>
+
+    <section class="section_first" style="min-height: calc( 100vh - 263px );">
+        <div class="container">
+            <h1 class="_title">404</h1>
+            <h2 class="_title">Страница не найдена</h2>
+        </div>
+    </section>
+
+<?php get_footer(); ?>
